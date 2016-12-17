@@ -1,3 +1,12 @@
 p {
- color: red;
+ color: purple;
+ text: bold; 
+}
+
+
+.main {
+ padding-left: 20px;
+ border-top: 4px solid black;
+ max-width: 80%;
+ background-color: #BDAEAE
 }
