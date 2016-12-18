@@ -1,12 +1,22 @@
 p {
  color: purple;
- text: bold; 
 }
 
+.jumbotron {
+ display: flex;
+ background-image: 
+  url(https://drive.google.com/drive/u/0/folders/0B7_BkAHMRJ66SlZWZkJ4SF9aUk0);
+ 
+}
 
 .main {
  padding-left: 20px;
  border-top: 4px solid black;
  max-width: 80%;
  background-color: #BDAEAE
+}
+
+.content {
+ border-bottom: 2px solid black;
+ font-weight: 500;
 }
