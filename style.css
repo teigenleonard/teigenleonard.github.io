@@ -10,7 +10,6 @@ p {
   url(http://rs1067.pbsrc.com/albums/u422/ifyougotone/File_009_zpsdlgmo3hd.jpeg?w=280&h=210&fit=crop);
  background-size: cover;
  background-repeat: no-repeat;
- background-size: auto 75%;
  background-position: right;
  max-width: 90%;
 }
@@ -25,5 +24,5 @@ p {
 
 .content {
  border-bottom: 4px solid black;
- font-weight: 700;
+ font-style: bold;
 }
