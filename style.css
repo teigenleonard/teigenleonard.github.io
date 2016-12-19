@@ -29,6 +29,7 @@ p {
 }
 
 .contact {
+ padding: 15px;
  color: #DCC6EA
   
 }
@@ -37,4 +38,8 @@ p {
  display: inline;
 }
 
+.h1 {
+ color: #ffffff;
+ padding: 10px;
+}
 
