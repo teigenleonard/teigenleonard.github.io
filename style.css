@@ -5,7 +5,7 @@ p {
 }
 
 .jumbotron {
- height: 300px;
+ height: 700px;
  display: flex;
  background-image: 
   url(http://rs1067.pbsrc.com/albums/u422/ifyougotone/File_009_zpsdlgmo3hd.jpeg?w=280&h=210&fit=crop);
@@ -40,7 +40,7 @@ nav li {
 }
 
 h1 {
- color: #FFFFFF;
+ color: #FCFAF1;
  padding: 10px;
  font-weight: bold;
 }
