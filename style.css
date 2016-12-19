@@ -9,6 +9,7 @@ p {
  background-size: cover;
  background-repeat: no-repeat;
  background-image: 100% 100%;
+ max-width: 80%;
 }
 
 .main {
@@ -21,4 +22,5 @@ p {
 .content {
  border-bottom: 4px solid black;
  font-weight: 700;
+ padding-bottom: 10px;
 }
