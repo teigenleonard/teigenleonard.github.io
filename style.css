@@ -35,12 +35,12 @@ p {
   
 }
 
-.nav li {
+nav li {
  display: inline;
 }
 
-.h1 {
- color: #ffffff;
+h1 {
+ color: #FFFFFF;
  padding: 10px;
  font-weight: bold;
 }
