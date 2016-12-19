@@ -35,12 +35,16 @@ p {
   
 }
 
-.header {
+.nav li {
  display: inline;
 }
 
 .h1 {
  color: #ffffff;
  padding: 10px;
+ font-weight: bold;
 }
 
+.profile {
+ font-style: italic;
+}
