@@ -5,6 +5,7 @@ p {
 }
 
 .jumbotron {
+ height: 300px;
  display: flex;
  background-image: 
   url(http://rs1067.pbsrc.com/albums/u422/ifyougotone/File_009_zpsdlgmo3hd.jpeg?w=280&h=210&fit=crop);
