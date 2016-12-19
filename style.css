@@ -1,5 +1,5 @@
 p {
- color: #6F7BD4;
+ color: #502352;
  padding-top: 10px;
  padding-bottom: 2px;
 }
@@ -32,3 +32,9 @@ p {
  color: #DCC6EA
   
 }
+
+.header {
+ display: inline;
+}
+
+
