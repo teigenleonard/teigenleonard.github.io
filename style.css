@@ -1,5 +1,6 @@
 p {
  color: brown;
+ padding-top: 10px;
 }
 
 .jumbotron {
@@ -8,13 +9,13 @@ p {
   url(http://rs1067.pbsrc.com/albums/u422/ifyougotone/File_009_zpsdlgmo3hd.jpeg?w=280&h=210&fit=crop);
  background-size: cover;
  background-repeat: no-repeat;
- background-image: 100% 100%;
+ background-size: auto 100%;
  max-width: 80%;
 }
 
 .main {
  padding-bottom: 15px;
- padding-left:20px;
+ padding-left: 20px;
  max-width: 80%;
  background-color: #BDAEAE
 }
@@ -22,5 +23,4 @@ p {
 .content {
  border-bottom: 4px solid black;
  font-weight: 700;
- padding-bottom: 10px;
 }
