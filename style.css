@@ -5,7 +5,7 @@ p {
 }
 
 .jumbotron {
- height: 500px;
+ height: 400px;
  display: flex;
  background-image: 
   url(http://rs1067.pbsrc.com/albums/u422/ifyougotone/File_009_zpsdlgmo3hd.jpeg?w=280&h=210&fit=crop);
@@ -30,7 +30,7 @@ p {
 }
 
 .contact {
- padding: 15px;
+ padding: 25px;
  color: #DCC6EA
   
 }
@@ -41,11 +41,11 @@ nav ul {
 
 nav li {
  display: inline;
- padding: 15px;
+ padding: 25px;
  color: #502352;
 }
 
-h1 {
+.name {
  color: #FCFAF1;
  padding: 10px;
  font-weight: bold;
