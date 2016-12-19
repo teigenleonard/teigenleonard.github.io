@@ -35,8 +35,14 @@ p {
   
 }
 
+nav ul {
+ display: inline;
+}
+
 nav li {
  display: inline;
+ padding: 15px;
+ color: #502352;
 }
 
 h1 {
