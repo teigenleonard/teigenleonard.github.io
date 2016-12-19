@@ -4,8 +4,12 @@ p {
  padding-bottom: 2px;
 }
 
+h3 {
+ font-weight: bold;
+}
+
 .jumbotron {
- height: 400px;
+ height: 450px;
  display: flex;
  background-image: 
   url(http://rs1067.pbsrc.com/albums/u422/ifyougotone/File_009_zpsdlgmo3hd.jpeg?w=280&h=210&fit=crop);
@@ -35,13 +39,18 @@ p {
   
 }
 
+.title {
+ font-weight: bold;
+}
+
 nav ul {
  display: inline;
 }
 
 nav li {
  display: inline;
- padding: 25px;
+ padding-right: 25px;
+ padding-top: 5px;
  color: #502352;
 }
 
